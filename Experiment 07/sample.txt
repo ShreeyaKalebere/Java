@@ -1,0 +1,3 @@
+Hi, this is sample.txt
+Hello Shubham
+Line 3
